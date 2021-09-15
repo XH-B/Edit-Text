@@ -1,3 +1,8 @@
-# Exploratory data analysis for the Adult or Census Income dataset from UCI Machine Learning Repository.
+# The paper about the Editing Text and style Text
 
--https://github.com/saravrajavelu/Adult-Income-Analysis
+
+
+SRNet - Editing Text in the Wild
+
+
+https://github.com/youdao-ai/SRNet
